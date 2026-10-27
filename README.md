@@ -54,5 +54,5 @@ Expected graduation: 2027
 ## Contact
 
 - **GitHub:** [@HansJung22](https://github.com/HansJung22)
-- **LinkedIn:** [Add your LinkedIn URL](https://www.linkedin.com/in/rikerson-silva-650ba6141/)
+- **LinkedIn:** (https://www.linkedin.com/in/rikerson-silva-650ba6141/)
 - **Email:** rikersonfreitas88@gmail.com
